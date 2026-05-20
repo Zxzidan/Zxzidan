@@ -6,6 +6,7 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 ### 🚀 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif" width="280" alt="Coding Animation">
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif" width="180" alt="Coding Animation">
 
 I am an Informatics student passionate about technology, digital innovation, and modern application development. Skilled in Frontend Development, UI/UX Design, and Artificial Intelligence (AI), with a strong focus on building responsive, interactive, and user-friendly digital experiences. Interested in combining clean design with intelligent solutions to create impactful and efficient applications.
 
