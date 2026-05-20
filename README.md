@@ -1,18 +1,54 @@
-# 💫 About Me:
-I am an Informatics student passionate about technology, digital innovation, and modern application development. Skilled in Frontend Development, UI/UX Design, and Artificial Intelligence (AI), with a strong focus on building responsive, interactive, and user-friendly digital experiences. Interested in combining clean design with intelligent solutions to create impactful and efficient applications.<br>Currently expanding my knowledge in Computer Networking and Mobile Development to strengthen my expertise in developing scalable, integrated, and cross-platform systems. Enthusiastic about learning new technologies, collaborating on innovative projects, and continuously growing as a developer in the evolving digital era.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dandz22?igsh=zxjnaw53endiyxhk&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dandiazaidane) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Dandi Azaidane&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Dandi Azaidane&theme=solarized-light&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dandi Azaidane&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Dandi Azaidane</h1>
+<h3 align="center">Informatics Student | Frontend Developer | UI/UX Designer | AI Enthusiast</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dandi Azaidane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+I am an Informatics student passionate about technology, digital innovation, and modern application development. Skilled in **Frontend Development**, **UI/UX Design**, and **Artificial Intelligence (AI)**, with a strong focus on building responsive, interactive, and user-friendly digital experiences.  
+
+Currently expanding my knowledge in **Computer Networking** and **Mobile Development** to strengthen my expertise in developing scalable, integrated, and cross-platform systems. Enthusiastic about learning new technologies, collaborating on innovative projects, and continuously growing as a developer in the evolving digital era.
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://instagram.com/dandz22" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dandiazaidane" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nandahariadi88@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,react,flutter,figma,mysql,postgres,tensorflow,git,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dandiazaidane&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dandiazaidane&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandiazaidane&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dandiazaidane&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<!-- Created with ❤️ by Dandi Azaidane -->
